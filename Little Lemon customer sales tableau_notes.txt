@@ -1,0 +1,66 @@
+Link to my tableau account ->>> 
+https://public.tableau.com/app/profile/rach4250/viz/LittleLemonCustomerSales_16825706012180/LittleLemonCustomerSales
+
+
+
+
+I cleaned the excel file: first I created a Profit column using the calculated field.
+Then I split the customer names into two columns: First name and Last name
+
+•  To create the Customer Sales:
+
+•  I dragged the Customer Name field from the data pane to the columns section and sales field  to the rows section 
+
+•  I dragged the Sales field from the data pane and dropped it onto the filter shelf
+
+•  I dragged the Sales field from the data pane and dropped it onto the color mark 
+
+•  Then I used the filter to narrow the sales value to sales >= $70
+
+
+
+
+To create the profits chart:
+
+•  I dragged the Order Date field from the data pane to the columns section and Profit field  to the rows section 
+
+•  I dragged the Order Date field to the filter shelf
+
+•  I dragged the order date field from the data pane and dropped it onto the color mark 
+
+•  Then I used the filter to exclude 2023
+
+
+
+To show the sales bubble chart:
+
+
+•  I dragged the profit field from the data pane and dropped it onto the size mark
+
+•  I dragged the sales field from the data pane and dropped it onto the tooltip mark
+
+•  I dragged the Customer name field from the data pane and dropped it onto the color mark 
+
+•  I dragged the customer name field from the data pane and dropped it onto the label mark
+
+
+To create the Cuisine Sales & Profit chart:
+
+•  I dragged the Cuisine name and order date fields from the data pane to the columns section and sales field  to the rows section
+ 
+•  I dragged the order date field from the data pane and dropped it onto the color mark
+
+•  I dragged the profit field from the data pane and dropped it onto the tooltip mark
+
+•  I dragged the sales field from the data pane and dropped it onto the label mark
+
+•  Then I used the filter to display sales for 2020, 2021, and 2022 
+
+•  Lastly, I sorted the data in descending order
+
+
+
+
+To create an interactive dashboard:
+
+•  I opened the dashboard view and dragged the customer sales and sales bubble chart worksheets I created from the sheets pane to the dashboard view. 
