@@ -1,0 +1,1 @@
+SELECT * FROM little_lemon.ordersview;
